@@ -6,7 +6,7 @@ Ce logiciel a été créé à l'aide du logiciel ReactJs, la librairie boostrap 
 
 Il y a pages, une pour créer un compte avec en argument adresse mail, nom, prénom et mot de passe demandé deux fois pour avoir une vérification supplémentaire. Une autre pour se connecter qui demande juste l'adresse mail et le mot de passe et qui contient les boutons remember me et mot de pass oublié qui ne redirige vers auscune autre page. Les données vont être envoyé à la partie Backend( voir le projet BackendUniseed)
 
-J'ai commencé à faire des scrypts de test fonctionnels en python avec la librairie pytest. Ils ne sont pas encore fonctionnel
+Idée de faire des tests fonctionnels en python avec la librairie pytest
 
 Install ReactJs:
 - npm install
