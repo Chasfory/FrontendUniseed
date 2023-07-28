@@ -1,29 +1,28 @@
-Test technique incluant un frontend du projet FrontendUniseed
+Technical test including a frontend from the FrontendUniseed project  
 
-C'est la réalisation du frontend pour une page login et signup
+This is the realization of the frontend for a login and signup page  
 
-Ce logiciel a été créé à l'aide du logiciel ReactJs, la librairie boostrap et axios
+This software was created using ReactJs software, the boostrap library and axios  
 
-Il y a pages, une pour créer un compte avec en argument adresse mail, nom, prénom et mot de passe demandé deux fois pour avoir une vérification supplémentaire. Une autre pour se connecter qui demande juste l'adresse mail et le mot de passe et qui contient les boutons remember me et mot de pass oublié qui ne redirige vers auscune autre page. Les données vont être envoyé à la partie Backend( voir le projet BackendUniseed)
+There are pages, one to create an account with the argument email address, name, first name and password requested twice for additional verification. Another to connect which just asks for the email address and the password and which contains the remember me and forgotten password buttons which does not redirect to any other page. The data will be sent to the Backend part (see the BackendUniseed project)  
 
-Idée de faire des tests fonctionnels en python avec la librairie pytest
+Idea to do functional tests in python with the pytest library  
 
-Install ReactJs:
-- npm install
-- https://fr.reactjs.org/docs/create-a-new-react-app.html
-- https://www.npmjs.com/package/axios
-- https://react-bootstrap.github.io/getting-started/introduction/
-- https://www.codegrepper.com/code-examples/whatever/npm+install+%40fortawesome%2Freact-fontawesome
+Install ReactJs:  
 
-Lancer le serveur:
-- npm start
+npm install  
+- https://fr.reactjs.org/docs/create-a-new-react-app.html  
+- https://www.npmjs.com/package/axios  
+- https://react-bootstrap.github.io/getting-started/introduction/  
+- https://www.codegrepper.com/code-examples/whatever/npm+install+%40fortawesome%2Freact-fontawesome  
 
-Les ressources:
-- Dans le dossier login -> Tout le développement de la page login
-- Dans le dossier signup -> Tout le développement de la page login
-- Dans le dossier picture -> image utilisé pour le font du site
-- Dans le fichier App -> les routes qui vont être exécuter
-- Dans le fichier connection -> connection à la base de données
-- Point d'entrée du programme -> index.js
+Launch the server:  
+npmstart  
 
-Bousch Laetitia
+The resources:  
+In the login folder -> All the development of the login page  
+In the signup folder -> All the development of the login page  
+In the folder picture -> image used for the font of the site  
+In the App file -> the routes that will be executed  
+In the file connection -> database connection  
+Program entry point -> index.js
